@@ -17,10 +17,9 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
-
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project]
+(https://1drv.ms/i/c/d85b78952bffd220/EaC4tk6g7yNFrujs7hudUqAB8jC9OiThD-8enXzH7Xl8Fw?e=RcGrSV)
 
 ## Description
 
-Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console
+This project is a simple tech store where you can choose different products like phones, laptops, and tablets. I chose this topic because I like technology, and it allowed me to use the concepts we learned in class. I used classes, constructors, instance variables, and methods to represent each product. The user interacts with the store by answering questions, like which brand they want or if they want a touchscreen laptop. The program takes these inputs and creates the product, then prints out the details to the console.
